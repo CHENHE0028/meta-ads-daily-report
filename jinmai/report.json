@@ -1,0 +1,29 @@
+{
+  "reportDate": "2026-11-05",
+  "baselineRange": "2026-10-30 至 2026-11-05",
+  "generatedAtLabel": "2026-11-06 13:22（Asia/Shanghai）",
+  "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示金麦广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
+  "account": {
+    "shortName": "金麦",
+    "name": "山东金麦矿产品有限公司",
+    "currency": "USD",
+    "summary": "昨日零投放；七日基线仍有稳定潜客产出。",
+    "status": { "label": "需检查投放", "tone": "negative" },
+    "kpis": [
+      { "label": "昨日花费", "value": 0, "format": "currency", "note": "较七日日均下降 100%", "tone": "negative" },
+      { "label": "昨日潜客", "value": 0, "format": "number", "note": "有效广告未产生交付", "tone": "negative" },
+      { "label": "七日花费", "value": 274.58, "format": "currency", "note": "日均 $39.23" },
+      { "label": "七日链接点击", "value": 2408, "format": "number", "note": "链接 CTR 1.31%" },
+      { "label": "七日潜客", "value": 78, "format": "number", "note": "Meta 归因" },
+      { "label": "七日 CPL", "value": 3.52, "format": "currency", "note": "历史基线" }
+    ],
+    "adsets": [
+      { "name": "昨日无投放数据", "spend": 0, "linkClicks": 0, "leads": 0, "cpl": null, "linkCtr": 0 }
+    ],
+    "creatives": [
+      { "name": "昨日无素材消耗", "spend": 0, "leads": 0, "cpl": null, "note": "等待恢复投放", "tone": "warning" }
+    ],
+    "priorities": ["核查账户支付、额度、审核和排期状态。", "确认是否存在人工暂停或投放限制。", "恢复后先观察半日消耗和潜客质量。"],
+    "recommendations": ["优先恢复正常交付，再判断素材与受众表现。", "恢复后以七日 CPL $3.52 作为短期参考线。", "结合 CRM 核验潜客有效率，不只看 Meta 归因数量。"]
+  }
+}
