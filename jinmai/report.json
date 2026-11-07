@@ -1,15 +1,15 @@
 {
-  "reportDate": "2026-11-05",
-  "baselineRange": "2026-10-30 至 2026-11-05",
-  "generatedAtLabel": "2026-11-06 17:02（Asia/Shanghai）",
+  "reportDate": "2026-11-06",
+  "baselineRange": "2026-10-31 至 2026-11-06",
+  "generatedAtLabel": "2026-11-07 09:00（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示金麦广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "金麦",
     "name": "山东金麦矿产品有限公司",
     "currency": "USD",
-    "summary": "昨日零投放；当前仍有有效广告组，需优先核查交付停滞。",
+    "summary": "昨日继续零投放；当前仍有有效广告组，交付停滞需优先人工核查。",
     "status": {
-      "label": "需检查投放",
+      "label": "投放停滞",
       "tone": "negative"
     },
     "kpis": [
@@ -29,25 +29,25 @@
       },
       {
         "label": "七日花费",
-        "value": 274.58,
+        "value": 222.48,
         "format": "currency",
-        "note": "日均 $39.23"
+        "note": "日均 $31.78"
       },
       {
         "label": "七日链接点击",
-        "value": 2408,
+        "value": 1972,
         "format": "number",
-        "note": "链接 CTR 1.31%"
+        "note": "链接 CTR 1.34%"
       },
       {
         "label": "七日潜客",
-        "value": 78,
+        "value": 62,
         "format": "number",
         "note": "Meta 归因"
       },
       {
         "label": "七日 CPL",
-        "value": 3.52,
+        "value": 3.59,
         "format": "currency",
         "note": "历史基线"
       }
@@ -73,13 +73,13 @@
       }
     ],
     "priorities": [
-      "核查账户支付、额度、审核和排期状态。",
-      "确认有效广告组是否受账户、素材或受众限制。",
+      "立即核查账户支付、额度、审核和排期状态。",
+      "确认三个有效广告组是否受账户、素材或受众限制。",
       "恢复后先观察半日消耗和潜客质量。"
     ],
     "recommendations": [
       "优先恢复正常交付，再判断素材与受众表现。",
-      "恢复后以七日 CPL $3.52 作为短期参考线。",
+      "恢复后以七日 CPL $3.59 作为短期参考线。",
       "结合 CRM 核验潜客有效率，不只看 Meta 归因数量。"
     ]
   }

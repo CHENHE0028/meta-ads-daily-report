@@ -1,119 +1,119 @@
 {
-  "reportDate": "2026-11-05",
-  "baselineRange": "2026-10-30 至 2026-11-05",
-  "generatedAtLabel": "2026-11-06 17:02（Asia/Shanghai）",
+  "reportDate": "2026-11-06",
+  "baselineRange": "2026-10-31 至 2026-11-06",
+  "generatedAtLabel": "2026-11-07 09:00（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示 CUS 广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "CUS",
     "name": "联创钢铁（山东）有限公司",
     "currency": "USD",
-    "summary": "昨日有正常消耗和潜客，但链接 CTR 较七日基线下降约 48%。",
+    "summary": "昨日消耗接近七日日均，但未产生潜客，链接 CTR 较七日基线下降约 72%。",
     "status": {
-      "label": "优化点击率",
-      "tone": "warning"
+      "label": "优化转化与点击率",
+      "tone": "negative"
     },
     "kpis": [
       {
         "label": "昨日花费",
-        "value": 36.99,
+        "value": 30.16,
         "format": "currency",
-        "note": "较七日日均上升 27.2%",
-        "tone": "warning"
+        "note": "较七日日均上升 3.9%"
       },
       {
         "label": "昨日展示",
-        "value": 9320,
+        "value": 15539,
         "format": "number",
-        "note": "覆盖 7,614"
+        "note": "覆盖 12,187"
       },
       {
         "label": "昨日链接点击",
-        "value": 18,
+        "value": 10,
         "format": "number",
-        "note": "链接 CTR 0.19%",
+        "note": "链接 CTR 0.06%",
         "tone": "negative"
       },
       {
         "label": "昨日潜客",
-        "value": 2,
+        "value": 0,
         "format": "number",
-        "note": "Meta 归因"
+        "note": "Meta 归因",
+        "tone": "negative"
       },
       {
-        "label": "昨日 CPL",
-        "value": 18.5,
+        "label": "七日 CPL",
+        "value": 20.32,
         "format": "currency",
-        "note": "七日基线 $14.54",
+        "note": "昨日无潜客",
         "tone": "negative"
       },
       {
         "label": "七日潜客",
-        "value": 14,
+        "value": 10,
         "format": "number",
-        "note": "七日花费 $203.56"
+        "note": "七日花费 $203.19"
       }
     ],
     "adsets": [
       {
         "name": "冲孔板-东南亚+巴西",
-        "spend": 20.49,
-        "linkClicks": 10,
+        "spend": 14.42,
+        "linkClicks": 3,
         "leads": 0,
         "cpl": null,
-        "linkCtr": 0.18
+        "linkCtr": 0.03
       },
       {
         "name": "货架-东南亚 - 1030新",
-        "spend": 11.87,
-        "linkClicks": 5,
+        "spend": 11.05,
+        "linkClicks": 7,
         "leads": 0,
         "cpl": null,
-        "linkCtr": 0.34
+        "linkCtr": 0.27
       },
       {
         "name": "货架-菲律宾 - 1030",
-        "spend": 4.63,
-        "linkClicks": 3,
-        "leads": 2,
-        "cpl": 2.32,
-        "linkCtr": 0.13
+        "spend": 4.69,
+        "linkClicks": 0,
+        "leads": 0,
+        "cpl": null,
+        "linkCtr": 0
       }
     ],
     "creatives": [
       {
-        "name": "贯通式货架(1)",
-        "spend": 3.15,
-        "leads": 2,
-        "cpl": 1.58,
-        "note": "继续验证",
-        "tone": "positive"
+        "name": "货架-6",
+        "spend": 7.93,
+        "leads": 0,
+        "cpl": null,
+        "note": "最高消耗无转化",
+        "tone": "negative"
       },
       {
-        "name": "冲孔板-1",
-        "spend": 10.81,
+        "name": "冲孔板-1105-1",
+        "spend": 7.4,
         "leads": 0,
         "cpl": null,
         "note": "高消耗无转化",
         "tone": "negative"
       },
       {
-        "name": "冲孔板-1105-1",
-        "spend": 3.26,
+        "name": "贯通式货架(1)",
+        "spend": 4.51,
         "leads": 0,
         "cpl": null,
-        "note": "样本较小",
+        "note": "昨日零点击",
         "tone": "warning"
       }
     ],
     "priorities": [
-      "保留菲律宾货架组，继续验证潜客质量。",
-      "优先复盘冲孔板组和高消耗无转化素材。",
-      "补充新素材，改善较基线下降约 48% 的链接 CTR。"
+      "优先复盘冲孔板组，链接 CTR 仅 0.03%。",
+      "检查菲律宾货架组昨日零链接点击的素材与受众。",
+      "控制高消耗零转化素材，补充新的卖点和版式。"
     ],
     "recommendations": [
-      "CTR 未恢复前，不扩大冲孔板预算。",
-      "新素材累计足够点击后，再按 CPL 和 CRM 质量筛选。",
-      "复制贯通式货架高效素材的卖点结构，而不是直接复制受众。"
+      "CTR 和潜客恢复前，不扩大现有广告组预算。",
+      "以七日 CPL $20.32 为上限，累计足够点击后再筛选素材。",
+      "结合 CRM 核验潜客有效率，不只看 Meta 归因数量。"
     ]
   }
 }
