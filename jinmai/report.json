@@ -1,85 +1,117 @@
 {
-  "reportDate": "2026-11-07",
-  "baselineRange": "2026-11-01 至 2026-11-07",
-  "generatedAtLabel": "2026-11-08 09:00（Asia/Shanghai）",
+  "reportDate": "2026-11-10",
+  "baselineRange": "2026-11-04 至 2026-11-10",
+  "generatedAtLabel": "2026-11-11 08:49（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示金麦广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "金麦",
     "name": "山东金麦矿产品有限公司",
     "currency": "USD",
-    "summary": "昨日继续零投放；当前仍有三个有效广告组，交付停滞需优先人工核查。",
+    "summary": "11 月 10 日已恢复并明显放量，取得 19 个 Meta 归因潜客；CPL 接近七日基线，但链接 CTR 低于七日整体水平。",
     "status": {
-      "label": "投放停滞",
-      "tone": "negative"
+      "label": "已恢复投放",
+      "tone": "positive"
     },
     "kpis": [
       {
         "label": "昨日花费",
-        "value": 0,
+        "value": 70.22,
         "format": "currency",
-        "note": "较七日日均下降 100%",
-        "tone": "negative"
+        "note": "较七日日均上升 332.2%",
+        "tone": "positive"
       },
       {
         "label": "昨日潜客",
-        "value": 0,
+        "value": 19,
         "format": "number",
-        "note": "有效广告组仍未产生交付",
-        "tone": "negative"
+        "note": "Meta 归因，CPL USD 3.70",
+        "tone": "positive"
       },
       {
-        "label": "七日花费",
-        "value": 180.35,
-        "format": "currency",
-        "note": "日均 $25.76"
+        "label": "昨日链接点击",
+        "value": 441,
+        "format": "number",
+        "note": "链接 CTR 0.85%"
       },
       {
-        "label": "七日链接点击",
-        "value": 1693,
+        "label": "昨日展示",
+        "value": 52087,
         "format": "number",
-        "note": "链接 CTR 1.43%"
+        "note": "覆盖 37,433"
       },
       {
         "label": "七日潜客",
-        "value": 46,
+        "value": 32,
         "format": "number",
-        "note": "Meta 归因"
+        "note": "七日花费 USD 113.73"
       },
       {
         "label": "七日 CPL",
-        "value": 3.92,
+        "value": 3.55,
         "format": "currency",
-        "note": "历史基线"
+        "note": "昨日 CPL 高 4.0%"
       }
     ],
     "adsets": [
       {
-        "name": "昨日无投放数据",
-        "spend": 0,
-        "linkClicks": 0,
-        "leads": 0,
-        "cpl": null,
-        "linkCtr": 0
+        "name": "潜客 - TCCA - 2026.10.8",
+        "spend": 28.36,
+        "linkClicks": 130,
+        "leads": 8,
+        "cpl": 3.54,
+        "linkCtr": 0.67
+      },
+      {
+        "name": "潜客 - PAM - 2026.10.8",
+        "spend": 21.67,
+        "linkClicks": 112,
+        "leads": 7,
+        "cpl": 3.1,
+        "linkCtr": 0.91
+      },
+      {
+        "name": "潜客 - SAP - 2026.10.8",
+        "spend": 20.19,
+        "linkClicks": 199,
+        "leads": 4,
+        "cpl": 5.05,
+        "linkCtr": 0.98
       }
     ],
     "creatives": [
       {
-        "name": "昨日无素材消耗",
-        "spend": 0,
-        "leads": 0,
-        "cpl": null,
-        "note": "等待恢复投放",
+        "name": "PAM - 视频 - 2026.10.15",
+        "spend": 5.91,
+        "leads": 3,
+        "cpl": 1.97,
+        "note": "昨日 CPL 最低，3 个潜客",
+        "tone": "positive"
+      },
+      {
+        "name": "TCCA - 拼图 - 2026.10.23",
+        "spend": 10.14,
+        "leads": 3,
+        "cpl": 3.38,
+        "note": "昨日 3 个潜客，效率稳定",
+        "tone": "positive"
+      },
+      {
+        "name": "SAP - 农业保水用途单图 - 2026.10.30",
+        "spend": 20.06,
+        "leads": 4,
+        "cpl": 5.01,
+        "note": "昨日消耗最高，CPL 高于账户均值",
         "tone": "warning"
       }
     ],
     "priorities": [
-      "立即核查账户支付、额度、审核和排期状态。",
-      "确认三个有效广告组是否受账户、素材或受众限制。",
-      "恢复后先观察半日消耗和潜客质量。"
+      "保持恢复后的交付稳定，优先观察未来 2–3 个完整自然日。",
+      "PAM 组效率最佳，可在潜客质量确认后优先承接增量。",
+      "SAP 组昨日 CPL 较高，先优化素材与落地承接。"
     ],
     "recommendations": [
-      "优先恢复正常交付，再判断素材与受众表现。",
-      "恢复后以七日 CPL $3.92 作为短期参考线。",
+      "以七日 CPL USD 3.55 为短期参考线，避免恢复初期一次性大幅扩量。",
+      "保留 PAM 视频等高效素材，同时补充 TCCA、SAP 新版素材做对照。",
       "结合 CRM 核验潜客有效率，不只看 Meta 归因数量。"
     ]
   }

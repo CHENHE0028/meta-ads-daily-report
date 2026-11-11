@@ -1,118 +1,117 @@
 {
-  "reportDate": "2026-11-07",
-  "baselineRange": "2026-11-01 至 2026-11-07",
-  "generatedAtLabel": "2026-11-08 09:00（Asia/Shanghai）",
+  "reportDate": "2026-11-10",
+  "baselineRange": "2026-11-04 至 2026-11-10",
+  "generatedAtLabel": "2026-11-11 08:49（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示 CUS 广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "CUS",
     "name": "联创钢铁（山东）有限公司",
     "currency": "USD",
-    "summary": "昨日消耗接近七日日均，但未产生潜客，链接 CTR 较七日基线下降约 78%。",
+    "summary": "11 月 10 日没有产生消耗或展示；七日累计 6 个 Meta 归因潜客，整体 CPL 为 USD 27.82，需先恢复稳定交付再评估优化。",
     "status": {
-      "label": "优化转化与点击率",
+      "label": "昨日无投放",
       "tone": "negative"
     },
     "kpis": [
       {
         "label": "昨日花费",
-        "value": 28.38,
+        "value": 0,
         "format": "currency",
-        "note": "较七日日均下降 4.8%"
-      },
-      {
-        "label": "昨日展示",
-        "value": 15267,
-        "format": "number",
-        "note": "覆盖 12,582"
-      },
-      {
-        "label": "昨日链接点击",
-        "value": 5,
-        "format": "number",
-        "note": "链接 CTR 0.03%",
+        "note": "较七日日均下降 100%",
         "tone": "negative"
       },
       {
         "label": "昨日潜客",
         "value": 0,
         "format": "number",
-        "note": "Meta 归因",
+        "note": "昨日无展示与点击",
         "tone": "negative"
       },
       {
-        "label": "七日 CPL",
-        "value": 29.82,
+        "label": "七日花费",
+        "value": 166.9,
         "format": "currency",
-        "note": "昨日无潜客",
-        "tone": "negative"
+        "note": "日均 USD 23.84"
+      },
+      {
+        "label": "七日展示",
+        "value": 66583,
+        "format": "number",
+        "note": "链接点击 54"
       },
       {
         "label": "七日潜客",
-        "value": 7,
+        "value": 6,
         "format": "number",
-        "note": "七日花费 $208.71"
+        "note": "Meta 归因"
+      },
+      {
+        "label": "七日 CPL",
+        "value": 27.82,
+        "format": "currency",
+        "note": "恢复后作为效率参考线"
       }
     ],
     "adsets": [
       {
         "name": "冲孔板-东南亚+巴西",
-        "spend": 15.81,
-        "linkClicks": 3,
-        "leads": 0,
-        "cpl": null,
-        "linkCtr": 0.03
+        "spend": 83.97,
+        "linkClicks": 22,
+        "leads": 2,
+        "cpl": 41.98,
+        "linkCtr": 0.05
       },
       {
         "name": "货架-东南亚 - 1030新",
-        "spend": 8.8,
-        "linkClicks": 2,
-        "leads": 0,
-        "cpl": null,
-        "linkCtr": 0.09
+        "spend": 60.22,
+        "linkClicks": 29,
+        "leads": 2,
+        "cpl": 30.11,
+        "linkCtr": 0.25
       },
       {
         "name": "货架-菲律宾 - 1030",
-        "spend": 3.77,
-        "linkClicks": 0,
-        "leads": 0,
-        "cpl": null,
-        "linkCtr": 0
+        "spend": 22.71,
+        "linkClicks": 3,
+        "leads": 2,
+        "cpl": 11.36,
+        "linkCtr": 0.02
       }
     ],
     "creatives": [
       {
         "name": "冲孔板-1105-1",
-        "spend": 9.06,
+        "spend": 28.63,
         "leads": 0,
         "cpl": null,
-        "note": "最高消耗无转化",
+        "note": "七日消耗最高，尚无潜客",
         "tone": "negative"
       },
       {
         "name": "货架-6",
-        "spend": 6.37,
+        "spend": 25.14,
         "leads": 0,
         "cpl": null,
-        "note": "高消耗无转化",
+        "note": "七日高消耗，尚无潜客",
         "tone": "negative"
       },
       {
-        "name": "冲孔板-1105-4",
-        "spend": 4.57,
-        "leads": 0,
-        "cpl": null,
-        "note": "昨日零链接点击",
+        "name": "冲孔板-1",
+        "spend": 22.22,
+        "leads": 1,
+        "cpl": 22.22,
+        "note": "七日 1 个潜客，CPL USD 22.22",
         "tone": "warning"
       }
     ],
     "priorities": [
-      "优先复盘冲孔板组，链接 CTR 仅 0.03%。",
-      "检查菲律宾货架组昨日零链接点击的素材与受众。",
-      "控制高消耗零转化素材，补充新的卖点和版式。"
+      "优先确认恢复交付的时间与范围，避免继续出现完整自然日零投放。",
+      "冲孔板组七日 CPL 最高，恢复后应控制测试消耗。",
+      "菲律宾货架组样本量较小，需结合 CRM 判断潜客质量。"
     ],
     "recommendations": [
-      "CTR 和潜客恢复前，不扩大现有广告组预算。",
-      "以七日 CPL $29.82 为参考上限，累计足够点击后再筛选素材。",
+      "恢复后先观察半日至一个完整自然日，再做预算或素材判断。",
+      "优先保留已有转化素材，限制高消耗零转化素材继续累积。",
       "结合 CRM 核验潜客有效率，不只看 Meta 归因数量。"
     ]
   }
