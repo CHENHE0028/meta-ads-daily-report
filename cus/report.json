@@ -1,13 +1,13 @@
 {
-  "reportDate": "2026-11-15",
-  "baselineRange": "2026-11-09 至 2026-11-15",
-  "generatedAtLabel": "2026-11-16 09:00（Asia/Shanghai）",
+  "reportDate": "2026-11-16",
+  "baselineRange": "2026-11-10 至 2026-11-16",
+  "generatedAtLabel": "2026-11-17 09:00（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示CUS广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "CUS",
     "name": "联创钢铁（山东）有限公司",
     "currency": "USD",
-    "summary": "11 月 15 日没有产生消耗或展示；七日累计 1 个 Meta 归因潜客，需先确认交付状态。",
+    "summary": "11 月 16 日花费 USD 0.00，获得 0 个 Meta 归因潜客；昨日 CPL 暂无，链接 CTR 0.00%。",
     "status": {
       "label": "昨日无投放",
       "tone": "negative"
@@ -17,8 +17,8 @@
         "label": "昨日花费",
         "value": 0.0,
         "format": "currency",
-        "note": "较七日日均下降 100.0%",
-        "tone": "negative"
+        "note": "较七日日均上升 0.0%",
+        "tone": "positive"
       },
       {
         "label": "昨日潜客",
@@ -41,77 +41,45 @@
       },
       {
         "label": "七日潜客",
-        "value": 1,
+        "value": 0,
         "format": "number",
-        "note": "七日花费 USD 9.99"
+        "note": "七日花费 USD 0.00"
       },
       {
         "label": "七日 CPL",
-        "value": 9.99,
+        "value": 0,
         "format": "currency",
         "note": "样本不足，暂不比较"
       }
     ],
     "adsets": [
       {
-        "name": "冲孔板-东南亚+巴西",
-        "spend": 5.55,
-        "linkClicks": 1,
-        "leads": 1,
-        "cpl": 5.55,
-        "linkCtr": 0.03
-      },
-      {
-        "name": "货架-东南亚 - 1030新",
-        "spend": 3.45,
-        "linkClicks": 2,
-        "leads": 0,
-        "cpl": null,
-        "linkCtr": 0.2
-      },
-      {
-        "name": "货架-菲律宾 - 1030",
-        "spend": 0.99,
+        "name": "七日无交付",
+        "spend": 0,
         "linkClicks": 0,
         "leads": 0,
         "cpl": null,
-        "linkCtr": 0.0
+        "linkCtr": 0
       }
     ],
     "creatives": [
       {
-        "name": "冲孔板-1105-4",
-        "spend": 4.42,
-        "leads": 1,
-        "cpl": 4.42,
-        "note": "七日 1 个潜客，CPL USD 4.42",
-        "tone": "positive"
-      },
-      {
-        "name": "货架-5",
-        "spend": 3.21,
+        "name": "七日无交付",
+        "spend": 0,
         "leads": 0,
         "cpl": null,
-        "note": "七日有消耗，尚无潜客",
-        "tone": "negative"
-      },
-      {
-        "name": "冲孔板-1105-1",
-        "spend": 1.13,
-        "leads": 0,
-        "cpl": null,
-        "note": "七日有消耗，尚无潜客",
+        "note": "七日无广告交付",
         "tone": "negative"
       }
     ],
     "priorities": [
-      "昨日零交付，优先核对有效广告、排期、预算与审核状态。",
-      "七日仅 11 月 9 日产生投放，样本不足，不宜据此扩大预算。",
-      "恢复投放后先积累完整自然日数据，再比较素材和广告组效率。"
+      "持续观察广告组交付与潜客质量，避免仅凭单日数据调整。",
+      "将有消耗零潜客的素材列入优先复盘清单。",
+      "恢复或放量后保留 2–3 个完整自然日观察窗口。"
     ],
     "recommendations": [
-      "先恢复并确认稳定交付，再进行预算或素材判断。",
-      "恢复后限制高消耗零转化素材，优先保留已有转化证据的素材。",
+      "以七日加权 CPL 为短期参考线，小步调整预算并保留 2–3 天观察窗口。",
+      "优先保留已有转化证据的素材，并补充新素材对照。",
       "结合 CRM 核验潜客有效率，不只看 Meta 归因数量。"
     ]
   }
