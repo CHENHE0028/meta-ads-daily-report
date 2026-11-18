@@ -1,13 +1,13 @@
 {
-  "reportDate": "2026-11-16",
-  "baselineRange": "2026-11-10 至 2026-11-16",
-  "generatedAtLabel": "2026-11-17 09:00（Asia/Shanghai）",
+  "reportDate": "2026-11-17",
+  "baselineRange": "2026-11-11 至 2026-11-17",
+  "generatedAtLabel": "2026-11-18 09:01（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示金麦广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "金麦",
     "name": "山东金麦矿产品有限公司",
     "currency": "USD",
-    "summary": "11 月 16 日花费 USD 54.69，获得 24 个 Meta 归因潜客；昨日 CPL USD 2.28，链接 CTR 1.73%。",
+    "summary": "11 月 17 日花费 USD 51.40，获得 7 个 Meta 归因潜客；昨日 CPL USD 7.34，链接 CTR 1.49%。",
     "status": {
       "label": "正常投放",
       "tone": "positive"
@@ -15,92 +15,100 @@
     "kpis": [
       {
         "label": "昨日花费",
-        "value": 54.69,
+        "value": 51.4,
         "format": "currency",
-        "note": "较七日日均下降 17.5%",
+        "note": "较七日日均下降 19.2%",
         "tone": "positive"
       },
       {
         "label": "昨日潜客",
-        "value": 24,
+        "value": 7,
         "format": "number",
-        "note": "Meta 归因，CPL USD 2.28",
+        "note": "Meta 归因，CPL USD 7.34",
         "tone": "positive"
       },
       {
         "label": "昨日链接点击",
-        "value": 427,
+        "value": 328,
         "format": "number",
-        "note": "链接 CTR 1.73%"
+        "note": "链接 CTR 1.49%"
       },
       {
         "label": "昨日展示",
-        "value": 24668,
+        "value": 22011,
         "format": "number",
-        "note": "覆盖 20,373"
+        "note": "覆盖 18,127"
       },
       {
         "label": "七日潜客",
-        "value": 102,
+        "value": 90,
         "format": "number",
-        "note": "七日花费 USD 464.25"
+        "note": "七日花费 USD 445.48"
       },
       {
         "label": "七日 CPL",
-        "value": 4.55,
+        "value": 4.95,
         "format": "currency",
-        "note": "昨日 CPL 较七日 低 49.9%"
+        "note": "昨日 CPL 较七日 高 48.3%"
       }
     ],
     "adsets": [
       {
         "name": "潜客 - TCCA - 2026.10.8",
-        "spend": 172.44,
-        "linkClicks": 766,
-        "leads": 48,
-        "cpl": 3.59,
-        "linkCtr": 1.06
+        "spend": 162.0,
+        "linkClicks": 728,
+        "leads": 43,
+        "cpl": 3.77,
+        "linkCtr": 1.19
       },
       {
         "name": "潜客 - SAP - 2026.10.8",
-        "spend": 131.13,
-        "linkClicks": 1093,
-        "leads": 25,
-        "cpl": 5.25,
-        "linkCtr": 1.97
+        "spend": 124.44,
+        "linkClicks": 1060,
+        "leads": 23,
+        "cpl": 5.41,
+        "linkCtr": 2.62
       },
       {
         "name": "潜客 - PAM - 2026.10.8",
-        "spend": 128.81,
-        "linkClicks": 643,
-        "leads": 29,
-        "cpl": 4.44,
-        "linkCtr": 1.27
+        "spend": 122.39,
+        "linkClicks": 597,
+        "leads": 24,
+        "cpl": 5.1,
+        "linkCtr": 1.34
+      },
+      {
+        "name": "贴文互动 - 土耳其展会 - 2026.11.11",
+        "spend": 36.65,
+        "linkClicks": 5,
+        "leads": 0,
+        "cpl": null,
+        "linkCtr": 0.05
       }
     ],
     "creatives": [
       {
         "name": "TCCA - 视频1 - 2026.9.18",
-        "spend": 111.47,
-        "leads": 31,
-        "cpl": 3.6,
-        "note": "七日 31 个潜客，CPL USD 3.60",
+        "spend": 114.15,
+        "leads": 28,
+        "cpl": 4.08,
+        "note": "七日 28 个潜客，CPL USD 4.08",
         "tone": "positive"
       },
       {
         "name": "SAP - 农业保水用途单图 - 2026.10.30",
-        "spend": 131.0,
-        "leads": 25,
-        "cpl": 5.24,
-        "note": "七日 25 个潜客，CPL USD 5.24",
+        "spend": 124.44,
+        "leads": 23,
+        "cpl": 5.41,
+        "note": "七日 23 个潜客，CPL USD 5.41",
         "tone": "positive"
       },
       {
-        "name": "PAM - 单图2 - 2026.10.22",
-        "spend": 47.13,
+        "name": "PAM - 单图（文案1） - 2026.11.13",
+        "spend": 34.8,
         "leads": 11,
-        "cpl": 4.28,
-        "note": "七日 11 个潜客，CPL USD 4.28",
+        "cpl": 3.16,
+        "note": "七日 11 个潜客，CPL USD 3.16",
         "tone": "positive"
       }
     ],
