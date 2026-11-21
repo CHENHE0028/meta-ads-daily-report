@@ -5,7 +5,7 @@
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示金麦广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "金麦",
-    "name": "山东金麦矿产品有限公司-瑞诺-1209",
+    "name": "山东金麦矿产品有限公司",
     "currency": "USD",
     "summary": "11 月 20 日花费 USD 67.60，获得 14 个 Meta 归因潜客；昨日 CPL USD 4.83，链接 CTR 1.55%。",
     "status": {
@@ -96,7 +96,7 @@
     ],
     "creatives": [
       {
-        "name": "潜客 - SAP - 2026.10.8",
+        "name": "SAP - 农业保水用途单图 - 2026.10.30",
         "spend": 113.24,
         "leads": 35,
         "cpl": 3.24,
@@ -104,7 +104,7 @@
         "tone": "positive"
       },
       {
-        "name": "潜客 - TCCA - 2026.10.8",
+        "name": "TCCA - 视频1 - 2026.9.18",
         "spend": 76.07,
         "leads": 16,
         "cpl": 4.75,
@@ -112,7 +112,7 @@
         "tone": "positive"
       },
       {
-        "name": "潜客 - TCCA - 2026.10.8",
+        "name": "TCCA - 拼图 - 2026.10.23",
         "spend": 54.01,
         "leads": 20,
         "cpl": 2.7,
