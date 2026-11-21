@@ -1,13 +1,13 @@
 {
-  "reportDate": "2026-11-19",
-  "baselineRange": "2026-11-13 至 2026-11-19",
-  "generatedAtLabel": "2026-11-20 09:00（Asia/Shanghai）",
+  "reportDate": "2026-11-20",
+  "baselineRange": "2026-11-14 至 2026-11-20",
+  "generatedAtLabel": "2026-11-21 09:00（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示CUS广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "CUS",
-    "name": "联创钢铁（山东）有限公司",
+    "name": "联创钢铁(山东)有限公司-261016",
     "currency": "USD",
-    "summary": "11 月 19 日花费 USD 0.00，获得 0 个 Meta 归因潜客；昨日 CPL 暂无，链接 CTR 0.00%。",
+    "summary": "11 月 20 日花费 USD 0.00，获得 0 个 Meta 归因潜客；昨日 CPL 暂无，链接 CTR 0.00%。",
     "status": {
       "label": "昨日无投放",
       "tone": "negative"
@@ -15,7 +15,7 @@
     "kpis": [
       {
         "label": "昨日花费",
-        "value": 0,
+        "value": 0.0,
         "format": "currency",
         "note": "较七日日均上升 0.0%",
         "tone": "positive"
