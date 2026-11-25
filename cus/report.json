@@ -1,13 +1,13 @@
 {
-  "reportDate": "2026-11-23",
-  "baselineRange": "2026-11-17 至 2026-11-23",
-  "generatedAtLabel": "2026-11-24 09:00（Asia/Shanghai）",
+  "reportDate": "2026-11-24",
+  "baselineRange": "2026-11-18 至 2026-11-24",
+  "generatedAtLabel": "2026-11-25 09:00（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示CUS广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "CUS",
     "name": "联创钢铁（山东）有限公司",
     "currency": "USD",
-    "summary": "11 月 23 日花费 USD 0.00，获得 0 个 Meta 归因潜客；昨日 CPL 暂无，链接 CTR 0.00%。",
+    "summary": "11 月 24 日花费 USD 0.00，获得 0 个 Meta 归因潜客；昨日无广告交付。",
     "status": {
       "label": "昨日无投放",
       "tone": "negative"
@@ -17,8 +17,8 @@
         "label": "昨日花费",
         "value": 0,
         "format": "currency",
-        "note": "较七日日均上升 0.0%",
-        "tone": "positive"
+        "note": "七日花费 USD 0.00",
+        "tone": "negative"
       },
       {
         "label": "昨日潜客",
@@ -43,7 +43,7 @@
         "label": "七日潜客",
         "value": 0,
         "format": "number",
-        "note": "七日花费 USD 0.00"
+        "note": "七日无交付"
       },
       {
         "label": "七日 CPL",
@@ -73,11 +73,11 @@
       }
     ],
     "priorities": [
-      "账户昨日及七日均无交付，且当前无有效活跃广告组；如计划投放，请先核对排期与启用状态。"
+      "账户昨日及七日均无交付，当前所有广告系列均为暂停状态；如计划恢复，请先确认排期与素材。"
     ],
     "recommendations": [
-      "以七日加权 CPL 为短期参考线，小步调整预算并保留 2–3 天观察窗口。",
-      "优先保留已有转化证据的素材，并补充新素材对照。",
+      "确认业务是否仍计划投放，再决定恢复或继续暂停。",
+      "恢复时先小预算运行 2–3 天，建立新的 CPL 与素材基准。",
       "结合 CRM 核验潜客有效率，不只看 Meta 归因数量。"
     ]
   }

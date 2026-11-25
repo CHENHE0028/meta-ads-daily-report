@@ -1,13 +1,13 @@
 {
-  "reportDate": "2026-11-23",
-  "baselineRange": "2026-11-17 至 2026-11-23",
-  "generatedAtLabel": "2026-11-24 09:00（Asia/Shanghai）",
+  "reportDate": "2026-11-24",
+  "baselineRange": "2026-11-18 至 2026-11-24",
+  "generatedAtLabel": "2026-11-25 09:00（Asia/Shanghai）",
   "disclaimer": "Meta 归因潜客不等同于 CRM 合格潜客。页面仅展示金麦广告汇总数据，不包含 Token、潜客个人资料、账户调整记录或操作人员信息。因未取得收入数据，本报告不计算 ROAS。",
   "account": {
     "shortName": "金麦",
     "name": "山东金麦矿产品有限公司",
     "currency": "USD",
-    "summary": "11 月 23 日花费 USD 67.04，获得 12 个 Meta 归因潜客；昨日 CPL USD 5.59，链接 CTR 1.83%。",
+    "summary": "11 月 24 日花费 USD 103.98，获得 18 个 Meta 归因潜客；昨日 CPL USD 5.78，链接 CTR 1.77%。",
     "status": {
       "label": "正常投放",
       "tone": "positive"
@@ -15,120 +15,120 @@
     "kpis": [
       {
         "label": "昨日花费",
-        "value": 67.04,
+        "value": 103.98,
         "format": "currency",
-        "note": "较七日日均上升 7.2%",
-        "tone": "positive"
+        "note": "较七日日均上升 48.4%",
+        "tone": "negative"
       },
       {
         "label": "昨日潜客",
-        "value": 12,
+        "value": 18,
         "format": "number",
-        "note": "Meta 归因，CPL USD 5.59",
+        "note": "Meta 归因，CPL USD 5.78",
         "tone": "positive"
       },
       {
         "label": "昨日链接点击",
-        "value": 439,
+        "value": 575,
         "format": "number",
-        "note": "链接 CTR 1.83%"
+        "note": "链接 CTR 1.77%"
       },
       {
         "label": "昨日展示",
-        "value": 23932,
+        "value": 32474,
         "format": "number",
-        "note": "覆盖 20,625"
+        "note": "覆盖 25,572"
       },
       {
         "label": "七日潜客",
-        "value": 89,
+        "value": 100,
         "format": "number",
-        "note": "七日花费 USD 437.82"
+        "note": "七日花费 USD 490.39"
       },
       {
         "label": "七日 CPL",
-        "value": 4.92,
+        "value": 4.9,
         "format": "currency",
-        "note": "昨日 CPL 较七日 高 13.6%"
+        "note": "昨日 CPL 较七日高 17.8%"
       }
     ],
     "adsets": [
       {
         "name": "潜客 - TCCA - 2026.10.8",
-        "spend": 159.63,
-        "leads": 47,
-        "cpl": 3.4,
-        "linkClicks": 1140,
-        "linkCtr": 1.67
+        "spend": 168.19,
+        "leads": 50,
+        "cpl": 3.36,
+        "linkClicks": 1227,
+        "linkCtr": 1.75
       },
       {
         "name": "潜客 - PAM - 2026.10.8",
-        "spend": 104.98,
-        "leads": 19,
-        "cpl": 5.53,
-        "linkClicks": 570,
-        "linkCtr": 1.6
+        "spend": 111.31,
+        "leads": 21,
+        "cpl": 5.3,
+        "linkClicks": 631,
+        "linkCtr": 1.76
       },
       {
         "name": "潜客 - SAP - 2026.10.8",
-        "spend": 103.25,
-        "leads": 23,
-        "cpl": 4.49,
-        "linkClicks": 1164,
-        "linkCtr": 3.29
+        "spend": 105.87,
+        "leads": 29,
+        "cpl": 3.65,
+        "linkClicks": 1226,
+        "linkCtr": 3.4
+      },
+      {
+        "name": "帖子：\"Su arıtma kimyasalları tedarikçisi mi arıyorsunuz?\"",
+        "spend": 64.98,
+        "leads": 0,
+        "cpl": null,
+        "linkClicks": 82,
+        "linkCtr": 0.48
       },
       {
         "name": "贴文互动 - 土耳其展会 - 2026.11.11",
-        "spend": 36.63,
+        "spend": 40.04,
         "leads": 0,
         "cpl": null,
         "linkClicks": 2,
         "linkCtr": 0.01
-      },
-      {
-        "name": "帖子：\"Su arıtma kimyasalları tedarikçisi mi arıyorsunuz?\"",
-        "spend": 33.33,
-        "leads": 0,
-        "cpl": null,
-        "linkClicks": 47,
-        "linkCtr": 0.46
       }
     ],
     "creatives": [
       {
         "name": "TCCA - 拼图 - 2026.10.23",
-        "spend": 99.59,
-        "leads": 36,
-        "cpl": 2.77,
-        "note": "七日 36 个潜客，CPL USD 2.77",
+        "spend": 114.67,
+        "leads": 38,
+        "cpl": 3.02,
+        "note": "七日 38 个潜客，CPL USD 3.02",
         "tone": "positive"
       },
       {
         "name": "SAP - 农业保水用途单图 - 2026.10.30",
-        "spend": 103.25,
-        "leads": 23,
-        "cpl": 4.49,
-        "note": "七日 23 个潜客，CPL USD 4.49",
+        "spend": 105.87,
+        "leads": 29,
+        "cpl": 3.65,
+        "note": "七日 29 个潜客，CPL USD 3.65",
         "tone": "positive"
       },
       {
-        "name": "PAM - 单图2 - 2026.10.22",
-        "spend": 53.65,
-        "leads": 11,
-        "cpl": 4.88,
-        "note": "七日 11 个潜客，CPL USD 4.88",
+        "name": "SDIC + TCCA - 单图2 - 2026.11.4",
+        "spend": 32.73,
+        "leads": 8,
+        "cpl": 4.09,
+        "note": "七日 8 个潜客，CPL USD 4.09",
         "tone": "positive"
       }
     ],
     "priorities": [
-      "潜客 - TCCA - 2026.10.8 七日 CPL 相对最优（USD 3.40），结合 CRM 质量判断是否承接增量。",
-      "复盘高消耗零潜客广告组：贴文互动 - 土耳其展会 - 2026.11.11、帖子：\"Su arıtma kimyasalları tedarikçisi mi arıyorsunuz?\"。",
-      "持续观察交付与潜客质量，避免仅凭单日数据调整。"
+      "昨日花费较七日日均上升 48.4%，但 CPL 仅较七日上升 17.8%；先观察增量潜客的 CRM 质量。",
+      "潜客 - TCCA - 2026.10.8 七日 CPL 最优（USD 3.36）；SAP 昨日 CPL USD 2.00，单日效率最佳。",
+      "对话互动组七日获得 24 次对话开启；应按对话目标评估，不与潜客 CPL 混算。"
     ],
     "recommendations": [
-      "以七日加权 CPL 为短期参考线，小步调整预算并保留 2–3 天观察窗口。",
-      "优先保留已有转化证据的素材，并补充新素材对照。",
-      "结合 CRM 核验潜客有效率，不只看 Meta 归因数量。"
+      "花费放量后保持 2–3 天观察窗口，优先核验新增潜客有效率。",
+      "TCCA 与 SAP 保留预算承接能力；PAM 素材继续迭代，避免单日放量。",
+      "互动广告按对话/互动成本单独复盘，不以零潜客判定失败。"
     ]
   }
 }
